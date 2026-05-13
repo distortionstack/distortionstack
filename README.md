@@ -4,7 +4,7 @@
 ---
  
 ```bash
-> whoami
+distortion@debian:~$ whoami
 Natapat Trajan
 CS student from Thailand
 Interests:
@@ -17,12 +17,8 @@ Interests:
  
 ---
  <div align="center">
-<img height="150em" src="https://github-readme-stats-git-main-grubersjoes.vercel.app/api?username=distortionstack&show_icons=true&theme=transparent&hide_border=true&hide_title=true"/>
+<img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=distortionstack&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
 </div>
 
-<div align="center">
-<img src="./meadow.svg" width="100%" alt="meadow"/>
-</div>
----
 
  
